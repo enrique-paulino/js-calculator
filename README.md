@@ -2,12 +2,15 @@
 
 JS Calculator is a simple web-based calculator application built with HTML, CSS, and JavaScript. It can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-![JS Calculator Screenshot](screenshot.png)
+<p align="center">
+<img src="calculator.gif">
+</p>
 
 ## Features
-
+- User-friendly interface with a magical touch
 - Addition, subtraction, multiplication, and division.
-- Clear button to reset the calculator.
+- AC button to clear the input field.
+- CE button to delete the last digit entered.
 
 ## Getting Started
 
@@ -21,6 +24,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository to your local machine.
 2. Open `index.html` in your web browser.
+
+## Usage
+Simply enter numbers and operators using the on-screen buttons to perform calculations. The result will be displayed in the calculator display.
 
 ## Built With
 
